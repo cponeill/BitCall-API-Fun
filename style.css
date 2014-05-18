@@ -1,0 +1,25 @@
+body {
+    font-size: 75%;
+    font-family:"Segoe UI", Verdana, Helvetica, Sans-Serif;
+}
+#body {
+    clear: both;
+    margin: 0 auto;
+    max-width: 534px;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin-top: 0.75em;
+    border: 0 none;
+    margin-top:35px;
+}
+#body td {
+    padding:15px 30px 15px 10px;
+}
+#body tr td:nth-child(1) {
+    font-weight:bold;
+}
+#sum {
+    width:400px;
+}
